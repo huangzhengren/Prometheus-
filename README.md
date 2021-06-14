@@ -1,2 +1,3 @@
-# Prometheus-
-Prometheus教程
+# Prometheus-tutorials
+## [Prometheus常用命令行参数](./Prometheus常用命令行参数)
+
